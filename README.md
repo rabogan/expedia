@@ -1,5 +1,5 @@
 # Expedia
-An Implementation of the back-end of expedia.com using C++
+An implementation of the back-end of expedia.com using C++
 
 Functional Requirements:
 * In this project, we implement a simple clone of expedia.com
