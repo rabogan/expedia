@@ -14,3 +14,7 @@ An itinerary item (e.g. a flight) has:
 
 2 types of users are included: Admin & Customer.  
 The focus of the code is strictly on the Customer part at the time of typing (Nov 2022)
+
+## Acknowledgements
+
+ - [Dr. Mostafa Saad Mastering 4 critical SKILLS using C++ 17](https://www.udemy.com/course/cpp-4skills/)
